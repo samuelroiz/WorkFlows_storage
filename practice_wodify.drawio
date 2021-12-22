@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T20:53:49.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="9mVBz26m7njARf0AneV6" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-22T21:04:43.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="FnzDhHuPLQcG_0cFnJWU" version="16.0.3" type="github">
   <diagram id="RcLsMqSNe8nh3_PVpQBb" name="Page-1">
     <mxGraphModel dx="769" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,8 +52,11 @@
         <mxCell id="UwSYvGgoTBaX2EDQLk_I-21" value="&lt;span&gt;Type of membership&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UwSYvGgoTBaX2EDQLk_I-23" value="Access to features" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="UwSYvGgoTBaX2EDQLk_I-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" edge="1" parent="1" source="UwSYvGgoTBaX2EDQLk_I-23" target="UwSYvGgoTBaX2EDQLk_I-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UwSYvGgoTBaX2EDQLk_I-23" value="Allow access to features" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UwSYvGgoTBaX2EDQLk_I-26" value="Class schedule" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="80" width="120" height="60" as="geometry" />
@@ -103,14 +106,28 @@
             <mxPoint x="285" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UwSYvGgoTBaX2EDQLk_I-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" edge="1" parent="1" source="UwSYvGgoTBaX2EDQLk_I-42" target="UwSYvGgoTBaX2EDQLk_I-46">
+        <mxCell id="UwSYvGgoTBaX2EDQLk_I-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UwSYvGgoTBaX2EDQLk_I-42" target="UwSYvGgoTBaX2EDQLk_I-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UwSYvGgoTBaX2EDQLk_I-42" value="Information &lt;br&gt;(name, address, etc.)&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UwSYvGgoTBaX2EDQLk_I-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" edge="1" parent="1" source="UwSYvGgoTBaX2EDQLk_I-46" target="UwSYvGgoTBaX2EDQLk_I-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UwSYvGgoTBaX2EDQLk_I-42" value="Information of member" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="635" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="UwSYvGgoTBaX2EDQLk_I-46" value="Class sign up" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UwSYvGgoTBaX2EDQLk_I-46" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="UwSYvGgoTBaX2EDQLk_I-48" value="Workout data" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UwSYvGgoTBaX2EDQLk_I-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;" edge="1" parent="1" source="UwSYvGgoTBaX2EDQLk_I-54" target="UwSYvGgoTBaX2EDQLk_I-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UwSYvGgoTBaX2EDQLk_I-54" value="Sign in members" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
