@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T18:01:55.217Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.1.0" etag="GPy-L1fV9FJ28T3rrp95" type="github"><diagram id="vez03-mE5HUtkDIlK7xA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-28T18:43:32.162Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="HsuuCGctOc-EgD4y3JI9" version="16.1.0" type="github">
+  <diagram id="vez03-mE5HUtkDIlK7xA" name="Page-1">
+    <mxGraphModel dx="777" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-SdccuFHKq_KUxfnKXr-1" target="t-SdccuFHKq_KUxfnKXr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-1" value="Game download" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-SdccuFHKq_KUxfnKXr-2" target="t-SdccuFHKq_KUxfnKXr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-2" value="Type of platform" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-SdccuFHKq_KUxfnKXr-6" target="t-SdccuFHKq_KUxfnKXr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-6" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-8" value="Game downloaded" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
