@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T19:35:45.993Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="fciHHJ66jcF2Pd-qRhtN" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-28T21:05:33.079Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Z5ZGJjOiq2v6wZ4bUZ7r" version="16.1.0" type="github">
   <diagram id="vez03-mE5HUtkDIlK7xA" name="Page-1">
-    <mxGraphModel dx="777" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1082" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="t-SdccuFHKq_KUxfnKXr-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-SdccuFHKq_KUxfnKXr-2" target="t-SdccuFHKq_KUxfnKXr-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t-SdccuFHKq_KUxfnKXr-2" value="Type of platform" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-2" value="Select type of platform" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t-SdccuFHKq_KUxfnKXr-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-SdccuFHKq_KUxfnKXr-6" target="t-SdccuFHKq_KUxfnKXr-8">
