@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T21:21:32.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="g5_GjzhvW7w_2aAJWAmO" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-28T21:38:56.419Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="iWiPhuC-nF9d9Hzj5wXn" version="16.1.0" type="github">
   <diagram id="vez03-mE5HUtkDIlK7xA" name="Page-1">
     <mxGraphModel dx="1020" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -149,86 +149,79 @@
         <mxCell id="t-SdccuFHKq_KUxfnKXr-65" value="Email authorized required" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t-SdccuFHKq_KUxfnKXr-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-SdccuFHKq_KUxfnKXr-74" target="t-SdccuFHKq_KUxfnKXr-77">
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-SdccuFHKq_KUxfnKXr-74" target="t-SdccuFHKq_KUxfnKXr-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t-SdccuFHKq_KUxfnKXr-74" value="Start Game" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="110" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="t-SdccuFHKq_KUxfnKXr-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-SdccuFHKq_KUxfnKXr-77">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1200" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t-SdccuFHKq_KUxfnKXr-81" value="No account created" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t-SdccuFHKq_KUxfnKXr-80">
-          <mxGeometry x="-0.1333" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="840" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t-SdccuFHKq_KUxfnKXr-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-SdccuFHKq_KUxfnKXr-77">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1340" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t-SdccuFHKq_KUxfnKXr-87" value="Logged in" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t-SdccuFHKq_KUxfnKXr-86">
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-87" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t-SdccuFHKq_KUxfnKXr-86">
           <mxGeometry x="-0.05" y="-1" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t-SdccuFHKq_KUxfnKXr-77" value="Log in Account" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="110" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="t-SdccuFHKq_KUxfnKXr-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-SdccuFHKq_KUxfnKXr-82" target="t-SdccuFHKq_KUxfnKXr-83">
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-SdccuFHKq_KUxfnKXr-77" target="t-SdccuFHKq_KUxfnKXr-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t-SdccuFHKq_KUxfnKXr-82" value="Game closes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="270" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="t-SdccuFHKq_KUxfnKXr-83" value="Account sign up link" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="t-SdccuFHKq_KUxfnKXr-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-SdccuFHKq_KUxfnKXr-89" target="t-SdccuFHKq_KUxfnKXr-96">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1620" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t-SdccuFHKq_KUxfnKXr-92" value="New or none exist" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t-SdccuFHKq_KUxfnKXr-91">
-          <mxGeometry x="-0.1111" y="1" relative="1" as="geometry">
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-121" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t-SdccuFHKq_KUxfnKXr-117">
+          <mxGeometry x="0.0222" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t-SdccuFHKq_KUxfnKXr-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t-SdccuFHKq_KUxfnKXr-89" target="t-SdccuFHKq_KUxfnKXr-100">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1380" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t-SdccuFHKq_KUxfnKXr-95" value="Exist" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t-SdccuFHKq_KUxfnKXr-94">
-          <mxGeometry x="-0.2286" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t-SdccuFHKq_KUxfnKXr-89" value="Choose Character" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="110" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="t-SdccuFHKq_KUxfnKXr-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="t-SdccuFHKq_KUxfnKXr-100" target="t-SdccuFHKq_KUxfnKXr-97">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1440" y="290" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-77" value="Account Exist?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t-SdccuFHKq_KUxfnKXr-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-SdccuFHKq_KUxfnKXr-96" target="t-SdccuFHKq_KUxfnKXr-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t-SdccuFHKq_KUxfnKXr-96" value="Create Character" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1690" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t-SdccuFHKq_KUxfnKXr-97" value="Game starts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="t-SdccuFHKq_KUxfnKXr-100" value="&lt;span&gt;Select Existing Character&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="1690" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t-SdccuFHKq_KUxfnKXr-101" value="Verification Email" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-SdccuFHKq_KUxfnKXr-113" target="t-SdccuFHKq_KUxfnKXr-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-113" value="Log in Account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="t-SdccuFHKq_KUxfnKXr-116" target="t-SdccuFHKq_KUxfnKXr-113">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-116" value="Account Sign up" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-SdccuFHKq_KUxfnKXr-122" target="t-SdccuFHKq_KUxfnKXr-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-122" value="Select Existing Character" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-SdccuFHKq_KUxfnKXr-123" target="t-SdccuFHKq_KUxfnKXr-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-123" value="Choose Character" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-SdccuFHKq_KUxfnKXr-124" target="t-SdccuFHKq_KUxfnKXr-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-SdccuFHKq_KUxfnKXr-124" target="t-SdccuFHKq_KUxfnKXr-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t-SdccuFHKq_KUxfnKXr-124" value="Character Exist?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="110" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
