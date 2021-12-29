@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T22:25:48.178Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="XAuhrzoVGA9fUm_Zk-1B" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-29T22:26:48.593Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="RhvrPcY4ASNXuTs2bJBW" version="16.1.0" type="github">
   <diagram id="J8h-p7_rt16rRzqVJKDh" name="Page-1">
     <mxGraphModel dx="1017" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -108,23 +108,23 @@
         <mxCell id="U2cnuOnHCQHUp6ca9xCw-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U2cnuOnHCQHUp6ca9xCw-41" target="U2cnuOnHCQHUp6ca9xCw-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U2cnuOnHCQHUp6ca9xCw-41" value="Temperature" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U2cnuOnHCQHUp6ca9xCw-41" value="Add Temperature" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U2cnuOnHCQHUp6ca9xCw-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U2cnuOnHCQHUp6ca9xCw-43" target="U2cnuOnHCQHUp6ca9xCw-50">
+        <mxCell id="U2cnuOnHCQHUp6ca9xCw-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U2cnuOnHCQHUp6ca9xCw-43" target="U2cnuOnHCQHUp6ca9xCw-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U2cnuOnHCQHUp6ca9xCw-43" value="Pressure" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U2cnuOnHCQHUp6ca9xCw-43" value="Add Pressure" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U2cnuOnHCQHUp6ca9xCw-45" value="Sublocation created" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="1510" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U2cnuOnHCQHUp6ca9xCw-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U2cnuOnHCQHUp6ca9xCw-50" target="U2cnuOnHCQHUp6ca9xCw-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U2cnuOnHCQHUp6ca9xCw-50" value="Hazard Code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1375" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="1340" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U2cnuOnHCQHUp6ca9xCw-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U2cnuOnHCQHUp6ca9xCw-53" target="U2cnuOnHCQHUp6ca9xCw-54">
           <mxGeometry relative="1" as="geometry" />
@@ -263,6 +263,25 @@
             <mxPoint x="730" y="890" as="sourcePoint" />
             <mxPoint x="730" y="1010" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="U2cnuOnHCQHUp6ca9xCw-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U2cnuOnHCQHUp6ca9xCw-112" target="U2cnuOnHCQHUp6ca9xCw-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2cnuOnHCQHUp6ca9xCw-115" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U2cnuOnHCQHUp6ca9xCw-114">
+          <mxGeometry x="-0.12" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U2cnuOnHCQHUp6ca9xCw-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U2cnuOnHCQHUp6ca9xCw-112" target="U2cnuOnHCQHUp6ca9xCw-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2cnuOnHCQHUp6ca9xCw-117" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U2cnuOnHCQHUp6ca9xCw-116">
+          <mxGeometry x="-0.2571" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U2cnuOnHCQHUp6ca9xCw-112" value="Are there hazard codes?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="820" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
