@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T21:57:02.212Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="19NXYu9wT399vRam0_7Y" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-29T21:58:02.636Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="64Fiwrjs0c_NYxuWYoxU" version="16.1.0" type="github">
   <diagram id="J8h-p7_rt16rRzqVJKDh" name="Page-1">
     <mxGraphModel dx="1017" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -214,13 +214,13 @@
         <mxCell id="U2cnuOnHCQHUp6ca9xCw-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U2cnuOnHCQHUp6ca9xCw-79" target="U2cnuOnHCQHUp6ca9xCw-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U2cnuOnHCQHUp6ca9xCw-79" value="Barcoded" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U2cnuOnHCQHUp6ca9xCw-79" value="Barcoded Total" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1535" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U2cnuOnHCQHUp6ca9xCw-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U2cnuOnHCQHUp6ca9xCw-84" target="U2cnuOnHCQHUp6ca9xCw-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U2cnuOnHCQHUp6ca9xCw-84" value="Missing Barcode" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U2cnuOnHCQHUp6ca9xCw-84" value="Missing Barcode Total" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1735" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U2cnuOnHCQHUp6ca9xCw-89" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U2cnuOnHCQHUp6ca9xCw-86" target="U2cnuOnHCQHUp6ca9xCw-88">
@@ -242,7 +242,7 @@
         <mxCell id="U2cnuOnHCQHUp6ca9xCw-88" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2115" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U2cnuOnHCQHUp6ca9xCw-95" value="Container Warnings" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="U2cnuOnHCQHUp6ca9xCw-95" value="Missing Barcode&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="1925" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
