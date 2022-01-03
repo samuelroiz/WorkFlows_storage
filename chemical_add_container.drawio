@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-03T18:43:36.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="O729K32B2Wg0WH1zAcFU" version="16.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-03T18:45:58.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="fPwM6JvLXQiT9-pkJrUN" version="16.1.4" type="github">
   <diagram id="NDT_n2IxOW_hEu5SFQYL" name="Page-1">
     <mxGraphModel dx="817" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -239,9 +239,6 @@
         <mxCell id="EA6XTScox7vaLfp8z1kA-70" value="Add Chemical Components" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EA6XTScox7vaLfp8z1kA-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-76" target="EA6XTScox7vaLfp8z1kA-74">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="EA6XTScox7vaLfp8z1kA-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-80">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="905" y="1060" as="targetPoint" />
@@ -250,8 +247,8 @@
         <mxCell id="EA6XTScox7vaLfp8z1kA-72" value="Does it have chemical components?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="865" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="EA6XTScox7vaLfp8z1kA-74" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="890" width="120" height="60" as="geometry" />
+        <mxCell id="EA6XTScox7vaLfp8z1kA-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-76" target="EA6XTScox7vaLfp8z1kA-92">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EA6XTScox7vaLfp8z1kA-76" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="980" y="905" width="60" height="30" as="geometry" />
@@ -278,6 +275,44 @@
         </mxCell>
         <mxCell id="EA6XTScox7vaLfp8z1kA-85" value="&lt;span&gt;Insert Chemicals components (optional)&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-90" target="EA6XTScox7vaLfp8z1kA-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-86" value="Does it have attachments?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="860" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-88" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1545" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-90" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1465" y="905" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-86" target="EA6XTScox7vaLfp8z1kA-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1415" y="920" as="sourcePoint" />
+            <mxPoint x="1545" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-92" target="EA6XTScox7vaLfp8z1kA-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-92" value="Add Attachments" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-97" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="990" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-92" target="EA6XTScox7vaLfp8z1kA-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="950" as="sourcePoint" />
+            <mxPoint x="1150" y="1070" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
