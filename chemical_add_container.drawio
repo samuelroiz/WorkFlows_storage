@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-03T19:07:00.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="6BkckdO2lD08QvTM3RKf" version="16.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-03T19:12:26.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="iHHgKVQw43dlZCtHmDZZ" version="16.1.4" type="github">
   <diagram id="NDT_n2IxOW_hEu5SFQYL" name="Page-1">
-    <mxGraphModel dx="786" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1636" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,40 +8,36 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EA6XTScox7vaLfp8z1kA-1" value="Add chemical/container" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="70" width="120" height="80" as="geometry" />
+          <mxGeometry x="-10" y="70" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EA6XTScox7vaLfp8z1kA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-2" target="EA6XTScox7vaLfp8z1kA-4">
+        <mxCell id="EA6XTScox7vaLfp8z1kA-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-2" target="EA6XTScox7vaLfp8z1kA-117">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EA6XTScox7vaLfp8z1kA-2" value="Add chemical" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EA6XTScox7vaLfp8z1kA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="495" y="290" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="150" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EA6XTScox7vaLfp8z1kA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-12" target="EA6XTScox7vaLfp8z1kA-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EA6XTScox7vaLfp8z1kA-4" value="Does chemical exist?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="60" width="110" height="100" as="geometry" />
+          <mxGeometry x="460" y="60" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EA6XTScox7vaLfp8z1kA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="EA6XTScox7vaLfp8z1kA-2">
+        <mxCell id="EA6XTScox7vaLfp8z1kA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=-0.05;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-18" target="EA6XTScox7vaLfp8z1kA-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="435" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EA6XTScox7vaLfp8z1kA-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="860" y="110" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-8" target="EA6XTScox7vaLfp8z1kA-113">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EA6XTScox7vaLfp8z1kA-8" value="Add container" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EA6XTScox7vaLfp8z1kA-8" value="Select chemical" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-10" target="EA6XTScox7vaLfp8z1kA-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EA6XTScox7vaLfp8z1kA-10" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="465" y="190" width="60" height="30" as="geometry" />
+          <mxGeometry x="485" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EA6XTScox7vaLfp8z1kA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-4" target="EA6XTScox7vaLfp8z1kA-10">
           <mxGeometry relative="1" as="geometry">
@@ -50,7 +46,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EA6XTScox7vaLfp8z1kA-12" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="95" width="60" height="30" as="geometry" />
+          <mxGeometry x="580" y="95" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EA6XTScox7vaLfp8z1kA-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-4" target="EA6XTScox7vaLfp8z1kA-12">
           <mxGeometry relative="1" as="geometry">
@@ -59,13 +55,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EA6XTScox7vaLfp8z1kA-18" value="Add new chemical" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="455" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EA6XTScox7vaLfp8z1kA-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-19" target="EA6XTScox7vaLfp8z1kA-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EA6XTScox7vaLfp8z1kA-19" value="Insert Container Information" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EA6XTScox7vaLfp8z1kA-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="EA6XTScox7vaLfp8z1kA-22">
           <mxGeometry relative="1" as="geometry">
@@ -159,14 +155,6 @@
         <mxCell id="EA6XTScox7vaLfp8z1kA-45" value="Added chemical/container to inventory" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1860" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EA6XTScox7vaLfp8z1kA-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-48">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1230" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EA6XTScox7vaLfp8z1kA-48" value="Add container" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="EA6XTScox7vaLfp8z1kA-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-50" target="EA6XTScox7vaLfp8z1kA-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -200,14 +188,14 @@
         <mxCell id="EA6XTScox7vaLfp8z1kA-59" value="Container Information finished" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2230" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EA6XTScox7vaLfp8z1kA-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-60" target="EA6XTScox7vaLfp8z1kA-48">
+        <mxCell id="EA6XTScox7vaLfp8z1kA-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-60" target="EA6XTScox7vaLfp8z1kA-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EA6XTScox7vaLfp8z1kA-60" value="Container Information" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="250" width="120" height="80" as="geometry" />
+          <mxGeometry x="1010" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EA6XTScox7vaLfp8z1kA-62" value="Container/chemical added to inventory" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="1180" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EA6XTScox7vaLfp8z1kA-64" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -340,6 +328,18 @@
             <mxPoint x="20" y="840" as="sourcePoint" />
             <mxPoint x="2373" y="850" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-113" target="EA6XTScox7vaLfp8z1kA-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-113" value="Add container" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-117" target="EA6XTScox7vaLfp8z1kA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-117" value="Search chemical" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
