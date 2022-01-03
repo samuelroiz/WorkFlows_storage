@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-03T18:20:27.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="LJfiXxYgECp6KIoMEE0K" version="16.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-03T18:22:09.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="SJ7y3JsM2I-pN7o-6PnW" version="16.1.4" type="github">
   <diagram id="NDT_n2IxOW_hEu5SFQYL" name="Page-1">
     <mxGraphModel dx="817" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -147,8 +147,14 @@
         <mxCell id="EA6XTScox7vaLfp8z1kA-41" value="Container Type" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1460" y="490" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-43" target="EA6XTScox7vaLfp8z1kA-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EA6XTScox7vaLfp8z1kA-43" value="Location" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1660" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-45" value="Added chemical/container to inventory" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
