@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-03T16:53:32.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="8EYdmVLDnsVkjbOscDnQ" version="16.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-03T16:54:28.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="A0zls3D4ZlQMWEGW6qwt" version="16.1.4" type="github">
   <diagram id="NDT_n2IxOW_hEu5SFQYL" name="Page-1">
     <mxGraphModel dx="707" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,8 +16,38 @@
         <mxCell id="EA6XTScox7vaLfp8z1kA-2" value="Search for Chemical" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-10" target="EA6XTScox7vaLfp8z1kA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-12" target="EA6XTScox7vaLfp8z1kA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EA6XTScox7vaLfp8z1kA-4" value="Does chemical exist?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="60" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-6" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-8" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-10" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-4" target="EA6XTScox7vaLfp8z1kA-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495" y="160" as="sourcePoint" />
+            <mxPoint x="495" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-12" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="95" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EA6XTScox7vaLfp8z1kA-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="EA6XTScox7vaLfp8z1kA-4" target="EA6XTScox7vaLfp8z1kA-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="110" as="sourcePoint" />
+            <mxPoint x="660" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
