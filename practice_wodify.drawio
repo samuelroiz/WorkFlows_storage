@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T04:42:52.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="KaJAm9tc9QW74rzLGnLl" version="16.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T04:42:56.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="qtT4BZVW0VDWZZzIskBN" version="16.1.4" type="github">
   <diagram id="RcLsMqSNe8nh3_PVpQBb" name="Page-1">
     <mxGraphModel dx="786" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UwSYvGgoTBaX2EDQLk_I-3" value="Add gym information&lt;br&gt;(gym name, location, contact)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="405" y="30" width="180" height="160" as="geometry" />
+          <mxGeometry x="420" y="30" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="UwSYvGgoTBaX2EDQLk_I-8" value="Sign up" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="80" width="120" height="60" as="geometry" />
