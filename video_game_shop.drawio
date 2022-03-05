@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-12T21:38:56.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.50" etag="NEDtWeq7GT2d_q1Zecsi" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-05T22:47:48.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="UPFBV3uFmYx-PqPIgn5J" version="16.6.6" type="github">
   <diagram id="vez03-mE5HUtkDIlK7xA" name="Page-1">
-    <mxGraphModel dx="772" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="855" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t-SdccuFHKq_KUxfnKXr-2" value="Select type of platform" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t-SdccuFHKq_KUxfnKXr-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="t-SdccuFHKq_KUxfnKXr-6" target="t-SdccuFHKq_KUxfnKXr-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
